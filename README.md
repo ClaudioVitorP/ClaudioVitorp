@@ -1,5 +1,6 @@
-![](https://github.com/ClaudioVitorP)
 
+
+![](https://github.com/ClaudioVitorP)
 <h3> &nbsp;Sobre mim  😄</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
