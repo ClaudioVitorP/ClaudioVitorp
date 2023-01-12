@@ -14,14 +14,13 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 
-
-**DevOps e ferramentas de Desenvolvimento**
+<h3> &nbsp;Ferramentas que utilizo: </h3>
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> &nbsp;Onde me encontrar: </h3> 
 
 <div align="left">
   <a href="mailto:claudiovvieira111@gmail.com" alt="Gmail">
