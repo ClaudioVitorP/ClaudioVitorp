@@ -4,7 +4,7 @@
 <h3> &nbsp;Sobre mim  😄</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Dev. FullStack** no <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
+- 🎓 &nbsp; Estudando **Dev. FullStack** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **JavaScrpit e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
