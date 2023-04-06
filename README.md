@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Dev. FullStack** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScrpit e React**.
+- 🌱 &nbsp; Aprendendo mais sobre **React e Node.js**.
 
 <h3> &nbsp;Minhas Skills </h3>
 
@@ -24,15 +24,15 @@
 
 <h3> &nbsp;Onde me encontrar: </h3> 
 
-  <div align="left">
-    <a href="mailto:claudiovvieira111@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="left">
+  <a href="mailto:claudiovvieira111@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-    <a href="https://www.linkedin.com/in/cláudio-vítor-74829b181/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/cláudio-vítor-74829b181/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-    <a href="https://contate.me/claudiovtor" alt="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  </div>     
+  <a href="https://contate.me/claudiovtor" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</div>     
 
 
