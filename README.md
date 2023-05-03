@@ -4,7 +4,7 @@
 <h3> &nbsp;Sobre mim  😄</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando Análise e desenvolvimento de sistemas (03/2023 a 08/2025) e proximo de concluir o curso **Dev. FullStack** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
+- 🎓 &nbsp; Cursando Análise e desenvolvimento de sistemas (04/2023 a 09/2025) e proximo de concluir o curso **Dev. FullStack** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
 - 🌱 &nbsp; Aprendendo mais sobre **React e Node.js**.
 
 <h3> &nbsp;Minhas Skills </h3>
