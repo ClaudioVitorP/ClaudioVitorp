@@ -4,8 +4,10 @@
 <h3> &nbsp;Sobre mim  😄</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Cursando Análise e desenvolvimento de sistemas (04/2023 a 09/2025) e curso concluído de **Desenvolvimento FullStack JavaScript** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **React e Node.js**.
+- 🎓 &nbsp; Cursando Análise e desenvolvimento de sistemas (04/2023 a 09/2025) na faculdade <a href="https://estacio.br">**Estacio de Sá**</a>.
+- 🎓 &nbsp; Curso concluído de **Desenvolvimento FullStack JavaScript** na <a href="https://www.linkedin.com/school/fulltureschool/">Fullture School</a>.
+- 🎓 &nbsp; Projeto 1000 Dev's - Talentos para o bem. **Desenvolvimento de software Backend em Node.js** oferecido pela <a href="https://www.linkedin.com/school/mesttra/">mesttra.</a>
+- 🌱 &nbsp; Estou me aprofundado em Node.js e pretendo estudar futuramente a linguagem Java.
 
 <h3> &nbsp;Minhas Skills </h3>
 
