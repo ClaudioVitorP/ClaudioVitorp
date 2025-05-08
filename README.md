@@ -5,7 +5,7 @@
 - 📚 &nbsp;Formação complementar:  
   - **Desenvolvimento Back-End em JavaScript** – Programa 1000Devs (Mesttra, Johnson & Johnson & Hospital Israelita Albert Einstein).  
   - **Desenvolvedor Full-Stack JavaScript** – Fullture School.  
-- 🌱 &nbsp;Apaixonado por desenvolvimento e qualidade de software, testes automatizados e dados.  
+- 🌱 &nbsp;Apaixonado por desenvolvimento de software de qualidade, testes automatizados e análise de dados. 
 
 <h3>&nbsp;Minhas Skills</h3>
 
