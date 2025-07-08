@@ -1,19 +1,25 @@
 <h3>&nbsp;Sobre mim 😄</h3>
 
-- 🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas (Tecnólogo)** na Uniube (previsão Dez/2026).  
-- 💼 &nbsp;Transição de carreira: de técnico/operador de máquinas para Desenvolvedor Back-end (Node.js + MongoDB).  
+- 🎓 &nbsp;Cursando **Análise e Desenvolvimento de Sistemas (Tecnólogo)** na Uniube – Previsão: Dez/2026  
+- 💼 &nbsp;Profissional em transição de carreira, com sólida experiência técnica na indústria e foco atual em **Desenvolvimento Back-End com C# e .NET**  
+- 🚀 &nbsp;Atualmente participando de um **bootcamp intensivo em .NET** pela DIO, com projetos aplicando ASP.NET Core, Entity Framework e SQL Server  
 - 📚 &nbsp;Formação complementar:  
-  - **Desenvolvimento Back-End em JavaScript** – Programa 1000Devs (Mesttra, Johnson & Johnson & Hospital Israelita Albert Einstein).  
-  - **Desenvolvedor Full-Stack JavaScript** – Fullture School.  
-- 🌱 &nbsp;Apaixonado por desenvolvimento de software de qualidade, testes automatizados e análise de dados. 
+  - **Desenvolvimento Back-End com JavaScript (Node.js + MongoDB)** – Programa 1000Devs (Mesttra, Johnson & Johnson & Hospital Albert Einstein)  
+  - **Desenvolvedor Full-Stack JavaScript** – Fullture School  
+- 🧠 &nbsp;Interesse por desenvolvimento de software robusto, testes automatizados, APIs REST e arquitetura limpa  
+- 🔍 &nbsp;Buscando oportunidades como **Desenvolvedor Back-End Júnior** ou **Estagiário técnico em .NET**
 
 <h3>&nbsp;Minhas Skills</h3>
 
-<code><img height="32" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></code>
-<code><img height="32" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></code>
-<code><img height="32" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></code>
+## 🚀 Tecnologias que venho utilizando
+
+![.NET](https://img.shields.io/badge/.NET-6-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-9B4F8C?style=for-the-badge&logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <h3>&nbsp;Ferramentas</h3>
 
@@ -24,10 +30,29 @@
 
 <h3>&nbsp;Projetos em Destaque</h3>
 
-- **API para Sistema Financeiro**: CRUD completo, autenticação JWT e integração Node.js + MongoDB. [Repositório](https://github.com/ClaudioVitorP/FinSys)  
-- **Gerenciador de Tarefas**: CRUD e persistência em PostgreSQL com Node.js. [Repositório](https://github.com/ClaudioVitorP/task-manager)  
-- **Sistema de Autenticação**: Login e registro com JWT e criptografia. [Repositório](https://github.com/ClaudioVitorP/auth-system)  
-- **Clone da Netflix**: front-end em React consumindo API externa. [Repositório](https://github.com/ClaudioVitorP/Netflix-clone)  
+## 🚀 Projetos em Destaque
+
+### 🅿️ [Sistema de Estacionamento](https://github.com/ClaudioVitorP/trilha-net-fundamentos-desafio)  
+Projeto do bootcamp da DIO, implementando lógica de entrada e saída de veículos com cálculo automático de tarifas.  
+📌 Tecnologias: C#, .NET, Console App
+
+---
+
+### 🏫 [Sistema de Notas Escolares](https://github.com/ClaudioVitorP/sistema-notas-escola)  
+Simulador simples que calcula a média de notas de um aluno e exibe a situação final.  
+📌 Tecnologias: JavaScript, Lógica de Programação, Console
+
+---
+
+### 📋 [CRUD com Node.js e PostgreSQL](https://github.com/ClaudioVitorP/crud-node-postgres)  
+API básica com rotas de criação, leitura, atualização e exclusão de dados conectada a banco relacional.  
+📌 Tecnologias: Node.js, Express.js, PostgreSQL
+
+---
+
+### 🎬 [Projeto de Introdução ao React](https://github.com/ClaudioVitorP/projeto-intro-react)  
+Primeiro contato com React.js, utilizando props, componentes e renderização dinâmica.  
+📌 Tecnologias: React.js, JavaScript
 
 <h3>&nbsp;Onde me encontrar</h3>
 
