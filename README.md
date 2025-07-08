@@ -4,8 +4,8 @@
 - 💼 &nbsp;Profissional em transição de carreira, com sólida experiência técnica na indústria e foco atual em **Desenvolvimento Back-End com C# e .NET**  
 - 🚀 &nbsp;Atualmente participando de um **bootcamp intensivo em .NET** pela DIO, com projetos aplicando ASP.NET Core, Entity Framework e SQL Server  
 - 📚 &nbsp;Formação complementar:  
-  - **Desenvolvimento Back-End com JavaScript (Node.js + MongoDB)** – Programa 1000Devs (Mesttra, Johnson & Johnson & Hospital Albert Einstein)  
-  - **Desenvolvedor Full-Stack JavaScript** – Fullture School  
+  - **Desenvolvimento Back-End com JavaScript (Node.js + PostegreSQL)** – Programa 1000Devs (mesttra., Johnson & Johnson & Hospital Albert Einstein)  
+  - **Desenvolvedor Full-Stack JavaScript(React.js + Node.JS + MondoDB)** – Fullture School  
 - 🧠 &nbsp;Interesse por desenvolvimento de software robusto, testes automatizados, APIs REST e arquitetura limpa  
 - 🔍 &nbsp;Buscando oportunidades como **Desenvolvedor Back-End Júnior** ou **Estagiário técnico em .NET**
 
