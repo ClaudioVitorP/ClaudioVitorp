@@ -13,13 +13,23 @@
 
 ## 🚀 Tecnologias que venho utilizando
 
-![.NET](https://img.shields.io/badge/.NET-6-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-9B4F8C?style=for-the-badge&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/C%23-9B4F8C?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</p>
+
+## 🛠️ Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img
+
 
 <h3>&nbsp;Ferramentas</h3>
 
@@ -32,27 +42,21 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🅿️ [Sistema de Estacionamento](https://github.com/ClaudioVitorP/trilha-net-fundamentos-desafio)  
-Projeto do bootcamp da DIO, implementando lógica de entrada e saída de veículos com cálculo automático de tarifas.  
+### 🅿️ [Sistema de Estacionamento (.NET)](https://github.com/ClaudioVitorP/trilha-net-fundamentos-desafio)  
+Projeto do bootcamp da DIO, com controle de entrada e saída de veículos e cálculo de tarifas.  
 📌 Tecnologias: C#, .NET, Console App
 
 ---
 
-### 🏫 [Sistema de Notas Escolares](https://github.com/ClaudioVitorP/sistema-notas-escola)  
-Simulador simples que calcula a média de notas de um aluno e exibe a situação final.  
-📌 Tecnologias: JavaScript, Lógica de Programação, Console
+### 💸 [API de Sistema Financeiro (Node.js)](https://github.com/ClaudioVitorP/FinSys)  
+API RESTful para controle de contas, com autenticação JWT e integração com MongoDB.  
+📌 Tecnologias: Node.js, Express.js, MongoDB, JWT
 
 ---
 
-### 📋 [CRUD com Node.js e PostgreSQL](https://github.com/ClaudioVitorP/crud-node-postgres)  
-API básica com rotas de criação, leitura, atualização e exclusão de dados conectada a banco relacional.  
-📌 Tecnologias: Node.js, Express.js, PostgreSQL
-
----
-
-### 🎬 [Projeto de Introdução ao React](https://github.com/ClaudioVitorP/projeto-intro-react)  
-Primeiro contato com React.js, utilizando props, componentes e renderização dinâmica.  
-📌 Tecnologias: React.js, JavaScript
+### 🎬 [FullFlix – Clone da Netflix (React)](https://github.com/ClaudioVitorP/Netflix-clone)  
+Interface inspirada na Netflix, com consumo de API TMDB, carrossel de filmes e UI moderna.  
+📌 Tecnologias: React.js, Axios, CSS Modules, TMDB API
 
 <h3>&nbsp;Onde me encontrar</h3>
 
